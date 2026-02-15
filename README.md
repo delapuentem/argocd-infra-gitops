@@ -1,2 +1,2 @@
-# argocd-infra-gitops
+# ArgoCD Infrastructure GitOps
 Central GitOps Control Plane. Orquestación de despliegues multi-repositorio y configuraciones del clúster mediante el patrón App-of-Apps en ArgoCD.
